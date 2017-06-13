@@ -1,0 +1,6 @@
+C:\Users\Asus_Notebook\Documents\GitHub\Heirarchy of classes\Heirarchy of classes\bin\Debug\Heirarchy of classes.exe.config
+C:\Users\Asus_Notebook\Documents\GitHub\Heirarchy of classes\Heirarchy of classes\bin\Debug\Heirarchy of classes.exe
+C:\Users\Asus_Notebook\Documents\GitHub\Heirarchy of classes\Heirarchy of classes\bin\Debug\Heirarchy of classes.pdb
+C:\Users\Asus_Notebook\Documents\GitHub\Heirarchy of classes\Heirarchy of classes\obj\Debug\Heirarchy of classes.csprojResolveAssemblyReference.cache
+C:\Users\Asus_Notebook\Documents\GitHub\Heirarchy of classes\Heirarchy of classes\obj\Debug\Heirarchy of classes.exe
+C:\Users\Asus_Notebook\Documents\GitHub\Heirarchy of classes\Heirarchy of classes\obj\Debug\Heirarchy of classes.pdb
